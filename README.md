@@ -82,7 +82,7 @@ Atualmente, estou mergulhado em várias leituras, abrangendo tanto livros técni
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=amaro2142&count=1)
 
 ----------------------------------------------------------------------------------
-### <h2>:notes: Ultimas musicas ouvindas recentemente
+### <h2>:notes: Últimas músicas ouvidas recentemente
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=amaro2142&unique={true|1|on|yes})
 
 
