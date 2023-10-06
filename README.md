@@ -1,6 +1,6 @@
 
 
-### Hello there 👋!
+### Hello there! 👋
 
 Olá! Meu nome é Victor, mas você pode me chamar pelo meu nickname, Amarick!
 - Sou um estudante de Engenharia da Computação apaixonado por tecnologia e sempre buscando aprender mais sobre o mundo dos devs.
@@ -40,9 +40,17 @@ Atualmente, estou mergulhado em várias leituras, abrangendo tanto livros técni
 
 ## como entrar em contato comigo?
 <P>Todos os meus meios de contato pelos quais você pode me encontra, estão aqui</P>
+
+ ### Contatos 
+<div>
+<a href = "mailto:victorflamaro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/victor-amaro-85b72b200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://discordapp.com/users/728912729154387998" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+</a>
 <p>Me manda um alo<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></P>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Amarick)](https://github.com/Amarick)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-amaro-85b72b200/)]( https://www.linkedin.com/in/victor-amaro-85b72b200/) [![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoflamaro@gmail.com)
+
 
 ----------------------------------------------------------------------------------
 ### Linguagens que estudo e tenho experiência
@@ -69,6 +77,13 @@ Atualmente, estou mergulhado em várias leituras, abrangendo tanto livros técni
 <code><img height="20" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></code>
 
+----------------------------------------------------------------------------------
+### <h2>:notes: O que estou ouvindo recentemente
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=amaro2142&count=1)
+
+----------------------------------------------------------------------------------
+### <h2>:notes: Ultimas musicas ouvindas recentemente
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=amaro2142&unique={true|1|on|yes})
 
 
 
