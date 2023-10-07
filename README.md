@@ -79,7 +79,7 @@ Atualmente, estou mergulhado em várias leituras, abrangendo tanto livros técni
 
 ----------------------------------------------------------------------------------
 ### <h2>:notes: O que estou ouvindo recentemente
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=amaro2142&count=1)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=amaro2142&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ----------------------------------------------------------------------------------
 ### <h2>:notes: Últimas músicas ouvidas recentemente
