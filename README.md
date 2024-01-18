@@ -32,11 +32,15 @@ Atualmente, estou mergulhado em várias leituras, abrangendo tanto livros técni
 
 ## :outbox_tray: Em busca de novos projetos e experiências.
  ----------------------------------------------------------------------------------
+<div align="center">
 
- ![Amarick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amarick&show&hide=stars,prs&count_private=true_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarick&layout=compact)](https://github.com/Amarick/github-readme-stats)
+  ![Amarick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amarick&show&hide=stars,prs&count_private=true_icons=true&theme=radical&count_private=true)
 
- ----------------------------------------------------------------------------------
- 
+  ----------------------------------------------------------------------------------
+
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amarick&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+</div>
 
 ## como entrar em contato comigo?
 <P>Todos os meus meios de contato pelos quais você pode me encontra, estão aqui</P>
