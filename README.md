@@ -80,12 +80,10 @@ Atualmente, estou mergulhado em várias leituras, abrangendo tanto livros técni
 <code><img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></code>
 
 ----------------------------------------------------------------------------------
-### <h2>:notes: O que estou ouvindo recentemente
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=amaro2142&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 ----------------------------------------------------------------------------------
-### <h2>:notes: Últimas músicas ouvidas recentemente
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=amaro2142&unique={true|1|on|yes})
+
 
 
 
