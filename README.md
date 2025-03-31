@@ -1,86 +1,80 @@
+# **Olá, eu sou Victor (Amarick)!** 👋  
+**Desenvolvedor Fullstack Java | Spring Boot | APIs REST | Microsserviços**  
 
+💻 Estudante de Engenharia da Computação apaixonado por tecnologia  
+🚀 Foco em **Java, Spring Boot, arquitetura de sistemas e desenvolvimento web**  
+📌 Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores  
 
-### Hello there! 👋
+---
 
-Olá! Meu nome é Victor, mas você pode me chamar pelo meu nickname, Amarick!
-- Sou um estudante de Engenharia da Computação apaixonado por tecnologia e sempre buscando aprender mais sobre o mundo dos devs.
-----------------------------------------------------------------------------------
-Aqui estão alguns detalhes sobre mim:
+## **🌌 Sobre Mim**  
+- 📍 **Localização:** Baixada Santista, litoral de São Paulo - BR  
+- 🎓 **Formação:** Estudante de Engenharia da Computação  
+- 🏋️ **Hobbies:** 
+  - Astronomia (adoro observar o cosmos!) 
+  - Musculação (equilíbrio entre mente e corpo)  
+- 📚 **Leitura Atual:**  
+  - Técnico: Aprofundando em **Java, Spring e Arquitetura de Software**  
+  - Ficção: *"As Crônicas de Gelo e Fogo"* (George R.R. Martin)  
 
-### hobbies
-Tenho alguns hobbies que são fundamentais para meu equilíbrio entre estudos e lazer:
+---
 
-Astronomia: Desde criança, sempre me fascinei pelo cosmos e as maravilhas do universo. Adoro observar estrelas, planetas e aprender sobre astrofísica sempre que posso.
+## **🛠 Tecnologias & Habilidades**  
 
-Musculação: Além de minha paixão pela tecnologia, também dedico parte do meu tempo ao treinamento físico. A musculação me ajuda a manter um corpo saudável e equilibrado, proporcionando uma ótima contrapartida para minhas horas de estudo.
-  
-----------------------------------------------------------------------------------
+### **Backend (Java Ecosystem)**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)  
 
-# :computer: Desenvolvedor Front-End!
+### **Banco de Dados**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-## :house_with_garden: Localização
+### **Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- Baixada Santista, litoral de São Paulo - BR.
+### **DevOps & Ferramentas**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## :books: Leituras Atuais
+---
 
-Atualmente, estou mergulhado em várias leituras, abrangendo tanto livros técnicos quanto obras de ficção. Algumas das minhas leituras incluem:
+## **📌 Objetivos**  
+- 🔍 **Em busca de estágio ou oportunidades júnior como Desenvolvedor Fullstack Java**  
+- 📊 Contribuir para projetos que utilizem **boas práticas de código (SOLID, Clean Code)**  
+- 🌱 Aperfeiçoar conhecimentos em **arquitetura de microsserviços e cloud (AWS/Azure)**  
 
-- Livros técnicos: Estou constantemente aprimorando minhas habilidades como desenvolvedor Front-End, então estou sempre lendo e estudando sobre as tecnologias mais recentes da web.
+---
 
-- **As Crônicas de Gelo e Fogo**: Além dos livros técnicos, estou lendo as "Crônicas de Gelo e Fogo" de George R. R. Martin.
+## **📫 Vamos Conversar!**  
+- 💼 [LinkedIn](www.linkedin.com/in/victor-amaro-85b72b200)  
+- 📧 [Email](mailto:victorflamaro@gmail.com)  
+- 🐙 [GitHub](https://github.com/Amarick)
 
-## :outbox_tray: Em busca de novos projetos e experiências.
+- <p>Me manda um alo<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></P>
+
+---  
+
+✨ **"O universo é um lugar vasto, mas o código é onde construo meu próprio cosmos!"** ✨  
  ----------------------------------------------------------------------------------
 <div align="center">
 
-  ![Amarick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amarick&show&hide=stars,prs&count_private=true_icons=true&theme=radical&count_private=true)
+  <!-- Card de Estatísticas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amarick&show_icons=true&theme=radical&hide=stars,prs&count_private=true&include_all_commits=true&hide_border=true" alt="Amarick's stats"/>
 
-  ----------------------------------------------------------------------------------
-
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amarick&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+  <!-- Card de Linguagens -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amarick&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=E94D5F&text_color=FFF" alt="Top langs"/>
 
 </div>
-
-## como entrar em contato comigo?
-<P>Todos os meus meios de contato pelos quais você pode me encontra, estão aqui</P>
-
- ### Contatos 
-<div>
-<a href = "mailto:victorflamaro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/victor-amaro-85b72b200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://discordapp.com/users/728912729154387998" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-</a>
-<p>Me manda um alo<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></P>
-
-
-
-----------------------------------------------------------------------------------
-### Linguagens que estudo e tenho experiência
-
-<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<code><img height="20" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<code><img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></code>
-
-----------------------------------------------------------------------------------
-
 
 ----------------------------------------------------------------------------------
 
