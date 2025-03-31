@@ -56,7 +56,7 @@
 ---
 
 ## **📫 Vamos Conversar!**  
-- 💼 [LinkedIn](www.linkedin.com/in/victor-amaro-85b72b200)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-amaro-85b72b200)  
 - 📧 [Email](mailto:victorflamaro@gmail.com)  
 - 🐙 [GitHub](https://github.com/Amarick)
 
